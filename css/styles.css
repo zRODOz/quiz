@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+
+.mor {
+    height: 15vh;
+    background-color: #6f00ff;
+    border: white solid 2px;
+}
+
+.ros {
+    height: 60vh;
+    background-color: #ff73e1;
+    border: white solid 2px;
+}
+
+.gre {
+    height: 40vh;
+    background-color: #0ce692;
+    border: solid 2px white;
+}
+
+.roj {
+    height: 40vh;
+    background-color: rgb(236, 88, 88);
+    border: solid 2px white;
+}
+
+.azu {
+    height: 15vh;
+    background-color: #45cef8;
+    border: solid 2px white;
+}
+
+.yel {
+    height: 20vh;
+    background-color: #dfff6d;
+    border: solid 2px white;
+}
+
+.grey {
+    height: 10vh;
+    background-color: #a8a8a8;
+    border: solid 2px white;
+}
+
+
